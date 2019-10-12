@@ -33,6 +33,7 @@ class MoviesController < ApplicationController
     # will render app/views/movies/show.<extension> by default
   end
 
+
   def new
     # default: render 'new' template
   end
